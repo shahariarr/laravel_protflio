@@ -25,12 +25,12 @@ Welcome to my personal portfolio website, powered by Laravel. This project showc
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/your-laravel-portfolio.git
+   https://github.com/shahariarr/laravel_protflio.git
    ```
 
 2. **Navigate to the Project:**
    ```bash
-   cd your-laravel-portfolio
+   cd laravel_protflio
    ```
 
 3. **Install Dependencies:**
